@@ -1,2 +1,2 @@
 # kgyang.github.io
-repo for my pages
+repo for my blogs
