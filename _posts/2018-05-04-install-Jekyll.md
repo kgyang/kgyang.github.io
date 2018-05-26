@@ -14,6 +14,9 @@ Steps
     # echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc
     # source ~/.bashrc
     # gem install jekyll bundler
+    # cd ~/kgyang.github.io
+    # add posts in _posts subdirectory
+    # jekyll serve
 
 Reference
 ---------
